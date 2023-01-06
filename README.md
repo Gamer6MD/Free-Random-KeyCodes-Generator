@@ -1,5 +1,5 @@
 # Free Random Key Codes Generator
-A simple script that generates a desired number of key codes 
+A simple script that generates a text file (codes.txt) with a desired number of generated random keycodes.
 
 All key codes are completely random. >>>NOT ALL WILL WORK<<<
 
