@@ -1,7 +1,9 @@
 # Free Random Key Codes Generator
-A simple script that generates a desired number of key codes (All codes are completely random. NOT ALL WILL WORK)
+A simple script that generates a desired number of key codes 
 
-##About
+(All codes are completely random. ### NOT ALL WILL WORK)
+
+## About
 
 This script was written with the help of OpenAI ChatGPT
 
